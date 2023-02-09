@@ -1,0 +1,11 @@
+! fanboy_newsletter_international_block.txt
+! Dutch
+||dagelijksestandaard.nl^*/ddsnieuwsbrief.jpg
+! French
+||bbc7dcd54670499dbd3ba50c33600830.pages.ubembed.com^
+! Italian
+||newsletter.beautydea.it^
+||pagamentidigitali.it^*/newsletter.jpg
+! Spanish
+! Russian
+||currenttime.tv/a/signup-sidebar-widget/

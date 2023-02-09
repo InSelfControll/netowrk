@@ -1,0 +1,68 @@
+! uBO-specific fixes
+! 9gag.com (mobile)
+9gag.com##.open-in-app
+9gag.com##body:style(overflow: auto !important;)
+9gag.com##.shade
+! youtube ads mitigation testing
+youtubekids.com,youtube-nocookie.com,youtube.com##+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtubekids.com,youtube-nocookie.com,youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
+youtubekids.com,youtube-nocookie.com,youtube.com##+js(json-prune, playerResponse.adPlacements)
+youtubekids.com,youtube-nocookie.com,youtube.com##+js(json-prune, playerResponse.playerAds) 
+youtubekids.com,youtube-nocookie.com,youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, null)
+youtubekids.com,youtube-nocookie.com,youtube.com##+js(set, playerResponse.adPlacements, undefined)
+! audioholics
+audioholics.com##.modal
+audioholics.com##.modal-backdrop
+! linuxbabe.com
+linuxbabe.com##.pum-active
+linuxbabe.com##html:style(overflow: auto !important)
+! rebelnews.com
+rebelnews.com##html:style(overflow: auto !important)
+rebelnews.com##.remodal-wrapper
+rebelnews.com##.remodal-overlay
+! huckberry.com
+huckberry.com##body,html:style(height: auto !important; overflow: auto !important)
+huckberry.com##.modal-content
+huckberry.com##.fade
+! bestrecipes.com.au (forced login)
+bestrecipes.com.au##+js(cookie-remover.js, br_mc)
+! revolver.news
+revolver.news##body:style(overflow: auto !important;)
+revolver.news##.blocker
+! 4399.com
+4399.com##+js(aopr, defaultbackgroundimg)
+! onegreenplanet.org (Fix page, when attempting to print)
+onegreenplanet.org##body:style(display: block !important)
+! whathifi.com (ghide)
+whathifi.com##.newsletter-signup
+! valuewalk.com 
+valuewalk.com##.mfp-ready
+valuewalk.com##body,html:style(overflow: auto !important; position: initial !important;)
+! themoscowtimes.com
+themoscowtimes.com##.contribute-modal
+themoscowtimes.com##.contribute-bar
+themoscowtimes.com##body:style(overflow: auto !important;)
+! gmarket (right click) https://github.com/easylist/easylist/issues/11894
+gmarket.co.kr##+js(set, document.oncontextmenu, noopFunc)
+gmarket.co.kr##+js(set, document.onmousedown, noopFunc)
+! newrepublic.com (popup) 
+newrepublic.com##.blink-sdk-widget-container
+newrepublic.com##body,html:style(overflow: auto !important; position: initial !important;)
+! https://github.com/uBlockOrigin/uAssets/issues/13976
+defenseone.com,govexec.com,nextgov.com,route-fifty.com##.interstitial
+defenseone.com,govexec.com,nextgov.com,route-fifty.com##body:style(overflow-x: auto !important; overflow-y: scroll !important; margin-right: 0 !important;)
+! commondreams.org
+commondreams.org##.block--mayrecurringmodal
+commondreams.org##.modal-backdrop
+commondreams.org##body,html:style(overflow: auto !important; position: initial !important;)
+! cnet.com (shopping popup)
+cnet.com##.c-shoppingExtModal
+cnet.com##.modal-backdrop
+cnet.com##body:style(height: auto !important; overflow: auto !important)
+! walletinvestor.com
+walletinvestor.com###bio_ep
+walletinvestor.com###bio_ep_bg
+walletinvestor.com##body:style(overflow: scroll !important)
+! t-nation.com 
+t-nation.com##.toggle_lb_scrolling_mobile
+t-nation.com##body:style(position: static !important; overflow: auto !important; width: auto !important;)

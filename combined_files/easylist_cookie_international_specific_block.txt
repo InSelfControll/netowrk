@@ -1,0 +1,222 @@
+!
+! ---------- German ----------
+!
+||amazonaws.com/website/js/tagcommander/$domain=cosmosdirekt.de
+||baustellenabsicherung24.de^*/koekje.
+||byom.de/js/cookie.de.js
+||cc.labu24.de^
+||cc.mpa-web.de^
+||ccm1.dlr.de^
+||cmp.pcwelt.de^
+||cmp.tvspielfilm.de^
+||consent-wrapper.jameda.de^
+||consent.autopflege24.net/app.js
+||consent.berliner-kurier.de^
+||consent.daa.net/app.js
+||consent.faz.net^
+||consent.gutefrage.net^
+||consent.maerkischekiste.de/public/app.js
+||consent2.rheinische-anzeigenblaetter.de^
+||cookies.ptj.de^
+||fc.vodafone.de^
+||henryschein.at^*/CookieList.aspx
+||howatherm.de/frontend/media/cm/
+||kefalonia-griechenland.com/RR_KE_ccm19/
+||mobile.de/api/consent/static/js/loader.js
+||postleitzahl.org/images/consent.php
+||saturn-klima.de/wp-content/a0a206f468204945563d799b8f319215.js
+||stefke-heilbronn.de/wp-content/1ae6d298321568877d478a611c6536f4.js
+||strato.de^*/consent.js
+||tauschticket.de/js/cnst.js
+||up-cookiemon.wavecdn.net^
+||vag.de/typo3conf/ext/cookieman/
+||weddstyle.de/bilder/banner/$image
+!
+! ---------- French ----------
+!
+||cmp.lavie.fr^
+||cmp.lepoint.fr^
+||consent.prismamedia.com^
+||consentement.ouest-france.fr^
+||cookies.leadplace.fr^
+||docteurclic.com/ajax/ajax_get_disc.aspx
+||editions-eni.fr/dlg/cookies.aspx
+||gmx.fr/uim/bidding/consent.js
+||googletagmanager.com/gtm.js$script,domain=stihl.fr
+||jeu.video^*/partners.js
+||ratp.fr/modules/custom/ratp_tarteaucitron/
+||static.lefigaro.fr/figconsent/
+||thesiteoueb.net/js/cm-head.js
+||vape-phone.fr/bundles/webtoolcore/js/newCookieChoice.js
+||var.uicdn.net/shopsshort/privacy/v1/bundle.
+||veodys.fr/api/cmp/
+!
+! ---------- Bulgarian ----------
+!
+!
+! ---------- Chinese ----------
+!
+!
+! ---------- Croatian ----------
+!
+||styria.hr^*/cookies.min.js
+!
+! ---------- Czech ----------
+!
+||consent.t-mobile.cz^
+||h.seznam.cz/js/cmp2/scmp-int.js$domain=en.mapy.cz
+!
+! ---------- Danish ----------
+!
+||tv2a.dk/consent/
+||tv2a.dk/oil.
+!
+! ---------- Dutch ----------
+!
+||cmp.deondernemer.nl^
+||cookie.vrt.be^
+||cookie.wieni.be^
+||cookies.jeugdjournaal.nl^
+||cookies.nos.nl^
+||cookies.ster.nl^
+||tmgonlinemedia.nl/cc$script
+!
+! ---------- Finnish ----------
+!
+||a-lehdet.fi^*/cmp.js
+||almamedia.fi/almacmp/$script,domain=~arvopaperi.fi|~iltalehti.fi|~mediuutiset.fi|~mikrobitti.fi|~talouselama.fi|~tekniikkatalous.fi|~tivi.fi|~www.kauppalehti.fi|~www.uusisuomi.fi
+||browser-consent-front.coco.s-cloud.fi/js/$script
+||cdn.gravito.net^$script
+||cmp.tori.fi^
+||cookielaw.org/scripttemplates/*/assets/*.json$xmlhttprequest,domain=elisa.fi
+||cookielaw.org/scripttemplates/*/assets/otCommonStyles.css$xmlhttprequest,domain=elisa.fi
+||gravitocdn.blob.core.windows.net/lightcmp/$script,domain=veho.fi
+||krookmedia.fi/wp-content/plugins/cookie-law-info/$script,domain=krookmedia.fi
+||tapionverkkokauppa.fi^*/js.cookie.min.js$script
+||vaikuttajamedia.fi^*/markuk_evastevaroitus.js
+||vpd.fi/datalayer/index/cookieContent/$xmlhttprequest,domain=vpd.fi
+!
+! ---------- Greek ----------
+!
+||cmp.soundis.gr^
+!
+! ---------- Hebrew ----------
+!
+!
+! ---------- Hungarian ----------
+!
+||kronikaonline.ro/template/kronika/js/js_cookie.js
+||szekelyhon.ro/template/szekelyhon_new/js/js_cookie.js
+!
+! ---------- Icelandic ----------
+!
+!
+! ---------- Indian ----------
+!
+!
+! ---------- Italian ----------
+!
+||bastabugie.it/it/cookies.js
+||beautydea.it^*/consent_$script
+||blog.omlet.it/wp-content/themes/omlet/js/consent.min.js
+||cippy.it/Scripts/toastr.js
+||cms24.it/js/kekse.js
+||cookie.aerostatonet.it^
+||cookierulez.sqrt64.it^$third-party
+||cookies.gardena.net^
+||creaweb.it/cookie/
+||credit-agricole.it/cookies/cookies.min.js
+||cure-naturali.it/cookies?
+||effekt.it/analytics/
+||fastweb.it/cookie-center/
+||informagiovani-italia.com/consenso.js
+||kkaio.com/templates/t4_blank/js/ck.js
+||londraweb.com/consenso_lw.js
+||meteorete.it/cookie.js
+||ok-salute.it^*/cookie-law-info-public-
+||plug.it^*/cmp.min.js
+||privacyportal.fatergroup.com^
+||rcsobjects.it/rcs_cpmt/
+||spesasicura.com/Scripts/cookie.js
+||stbm.it/utility-fe/prod/general/network.common.v2.js
+||triboo.direct/cookie_triboodirect/
+||velvetgossip.it^*/gdprvelvet.js
+!
+! ---------- Japanese ----------
+!
+||gdpr.laxd.com^
+!
+! ---------- Korean ----------
+!
+!
+! ---------- Latvian ----------
+!
+!
+! ---------- Norwegian ----------
+!
+!
+! ---------- Polish ----------
+!
+||4hifi.pl/scripts/jquery.cookie.js
+||allegrostatic.com/opbox-rodo-consent-modal/
+||animesub.info/skrypty/pierdolecookie.js
+||cmp.computerworld.pl^$script
+||cmp.cxo.pl^$script
+||cmp.idg.pl^$script
+||cmp.internetstandard.pl^$script
+||cmp.pcworld.pl^$script
+||cookie.gazeta.pl^
+||cookies.fakt.pl^
+||cookies.forbes.pl^
+||gry-online.pl/js/cookie2.js
+||interia.pl/rodo-iframe
+||lubuskie.pl/themes/src/cookie.js
+||niewygodne.info.pl/pierwsza.htm
+||nowehoryzonty.pl/js/cookies.js
+||orange.pl/ocp-http/map/js/cookies.js
+||prideandglory.pl/polityka_cookies.js
+||rodo.agora.pl^
+||rp.pl/cmp/
+||skryptcookies.pl^$third-party
+||sycow.pl/a/cookie.js
+||zgody.infor.pl^
+!
+! ---------- Portuguese ----------
+!
+!
+! ---------- Romanian ----------
+!
+!
+! ---------- Russian ----------
+!
+||remixshop.com/bg/site/ajaxCheckCookiePolicy
+!
+! ---------- Slovak ----------
+!
+||cookies.teraz.sk^
+!
+! ---------- Slovenian ----------
+!
+!
+! ---------- Spanish ----------
+!
+||advgo.net/borostcf/
+||cookies.unidadeditorial.es^
+!
+! ---------- Swedish ----------
+!
+||hemnet.se/assets/packs/consent.
+||privacy.schibsted.com^
+!
+! ---------- Thai ----------
+!
+||matichon.co.th^*/pdpa.js
+||wongnai.com/_api/consents/
+!
+! ---------- Turkish ----------
+!
+||efilli.com/layouts/efilli.layouts.js
+||tmgrup.com.tr^*/tmdconsent-
+!
+! ---------- Ukrainian ----------
+||consent.themeteocompany.com^

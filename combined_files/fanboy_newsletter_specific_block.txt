@@ -1,0 +1,20 @@
+! fanboy_newsletter_specific_block.txt
+||afrik21.africa/wp-content/themes/afrik21/images/news.png
+||artdaily.cc/subscribe.html
+||chemistwarehouse.com.au/edm_collector.html
+||ewnews.com/wp-content/themes/dw-focus/newsletter.png
+||forms-content.sg-form.com^$domain=12tomatoes.com
+||gn-flagpoles.api.bbci.co.uk^
+||indiatimes.com/subscriptionhomepage.cms
+||insidesources.com/wp-content/themes/insidesources/js/jquery.fancybox.js
+||loader.wisepops.com^$domain=grist.org
+||newsletter.bdnews24.com^
+||nscreenmedia.com/wp-content/uploads/subscribe-nscreen-newsletter.jpg
+||oilprice.com/iframes/sidebar_signupform/
+||psyche.co/_next/static/chunks/PopupManager.
+||researchnews.cc/subscribe.html
+||scmp.com/misc/inkstone_sub_widget/
+||subscriptions.cbc.ca^$xmlhttprequest
+||theintercept.com/xbuilder/$script
+||thejewishstar.com/images/enews-ad.png
+||tinypass.com/api/tinypass.min.js$script,domain=thedailybeast.com
